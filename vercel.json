@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/dados.js": {
+      "maxDuration": 60
+    }
+  }
+}
