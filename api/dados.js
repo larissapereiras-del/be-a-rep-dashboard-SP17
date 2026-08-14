@@ -4,7 +4,7 @@
 ========================================================= */
 
 const VERDI_URL =
-  "https://api.mercadolibre.com/workspace/genai/verdi-flows/webhook/0a7356a6-9917-4435-acfe-60269391ca30/external";
+  "http://verdi-flows.melisystems.com/webhook/b923dc77-5925-4842-8575-0ac85c197877";
 
 
 /* =========================================================
